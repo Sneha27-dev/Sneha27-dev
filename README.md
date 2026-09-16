@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sneha
 
-📍 Bangalore, India &nbsp;|&nbsp; 📧 snehaganiga1527@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/sneha-ganiga-557181312) &nbsp;|&nbsp; [GitHub](https://github.com/Sneha27-dev)
+📍 Bangalore, India &nbsp;|&nbsp; 📧 snehaganiga1527@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/sneha-557181312) &nbsp;|&nbsp; [GitHub](https://github.com/Sneha27-dev)
 
 🔍 **Open to Data Analyst, Frontend Developer & Software Development roles**
 
